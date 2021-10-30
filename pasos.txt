@@ -1,0 +1,7 @@
+npm init (llenar)
+
+npm i express (descargar express)
+
+npm i dotenv (instalar dotenv)
+
+npm i mongoose

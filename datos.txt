@@ -1,0 +1,16 @@
+{
+    "nombre_habitacion":"SuperLujo",
+    "fotografia_habitacion":"No tiene",
+    "descripcion_habitacion":"Excelente Habitacion",
+    "precio_adulto_noche":230000,
+    "precio_nino_noche":200000
+}
+
+{
+    "nombre_cliente":"Luis Miguel",
+    "apellido_cliente":"Hinostroza Londoño",
+    "telefono_cliente":"3012080821",
+    "fecha_inicio_reserva":"29-10-2021",
+    "fecha_final_reserva":"30-10-2021",
+    "numero_personas":3
+}
